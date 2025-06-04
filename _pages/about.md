@@ -1,4 +1,12 @@
-# About me
+---
+permalink: /
+title: "About me"
+excerpt:"About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
 
 I'm a undergraduate student from [School of Mathematics](https://math.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/). My research interest includes computer vision, image processing, machine learning, and AI for math. 
 
